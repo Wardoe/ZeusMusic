@@ -1,8 +1,8 @@
 {
-  "name": "Test",
-  "description": "Test",
-  "version": "0.0.0",
-  "main": "bot.js",
+  "name": "ZeusMusic",
+  "description": "ZeusMusic 24/7 music bot!",
+  "version": "0.0.1",
+  "main": "bot.js",   D:\Igre\Download\Moosic-master
   "scripts": {
     "start": "node bot.js"
   },
